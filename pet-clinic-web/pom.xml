@@ -12,7 +12,14 @@
     <artifactId>pet-clinic-web</artifactId>
 
 
+
     <dependencies>
+        <!-- pet-clinic-data as a dependency -->
+        <dependency>
+            <artifactId>pet-clinic-data</artifactId>
+            <groupId>ca.gbc.comp3095</groupId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
