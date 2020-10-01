@@ -23,7 +23,6 @@
     </properties>
     <scm>
         <developerConnection>scm:git:https://github.com/ZacShaw/Comp_3095_Pet</developerConnection>
-      <tag>gbc-comp3095-pet-clinic-0.0.1</tag>
   </scm>
 
     <build>
