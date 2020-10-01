@@ -23,6 +23,10 @@
         <java.version>11</java.version>
     </properties>
 
+    <scm>
+        <developerConnection>scm:git:https://github.com/ZacShaw/Comp_3095_Pet</developerConnection>
+    </scm>
+
     <build>
         <plugins>
             <plugin>
